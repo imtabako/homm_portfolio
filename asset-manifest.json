@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/homm_portfolio/static/css/main.ba21b07a.css",
+    "main.js": "/homm_portfolio/static/js/main.dd6e6241.js",
+    "static/js/787.dae45fa0.chunk.js": "/homm_portfolio/static/js/787.dae45fa0.chunk.js",
+    "static/media/HeroPanel.png": "/homm_portfolio/static/media/HeroPanel.68c3c787918ca8f39fb9.png",
+    "static/media/advmap_ru_leftpanel.bmp": "/homm_portfolio/static/media/advmap_ru_leftpanel.e7a7e0269b31cb6bc6bc.bmp",
+    "static/media/centurygothic.ttf": "/homm_portfolio/static/media/centurygothic.b194aa2bd524e2c973f7.ttf",
+    "static/media/description.png": "/homm_portfolio/static/media/description.68ae0a3c249c2835f82f.png",
+    "static/media/CenturyGothic.woff": "/homm_portfolio/static/media/CenturyGothic.b960b254e2024ef0db9e.woff",
+    "static/media/advmap_bottom.bmp": "/homm_portfolio/static/media/advmap_bottom.58581ba5a2cd6f7b6590.bmp",
+    "static/media/CenturyGothic.woff2": "/homm_portfolio/static/media/CenturyGothic.e771278353d96b013394.woff2",
+    "static/media/eventHero.png": "/homm_portfolio/static/media/eventHero.c0fd4571de7980a6d4f7.png",
+    "static/media/advmap_d.bmp": "/homm_portfolio/static/media/advmap_d.0f82db91988cb955b5db.bmp",
+    "static/media/aresbar_l.bmp": "/homm_portfolio/static/media/aresbar_l.1bbb2870a151a1cfbc09.bmp",
+    "index.html": "/homm_portfolio/index.html",
+    "main.ba21b07a.css.map": "/homm_portfolio/static/css/main.ba21b07a.css.map",
+    "main.dd6e6241.js.map": "/homm_portfolio/static/js/main.dd6e6241.js.map",
+    "787.dae45fa0.chunk.js.map": "/homm_portfolio/static/js/787.dae45fa0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba21b07a.css",
+    "static/js/main.dd6e6241.js"
+  ]
+}
